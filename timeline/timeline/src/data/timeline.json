@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "date": "2017",
+            "description": "Graduated High School, Ullern VGS Oslo",
+            "extended": "General studies",
+            "eventId": "GRADUATED_ULLERN"
+        },
+        {
+            "date": "2019 Summer",
+            "description": "System developer internship at Epigram AI",
+            "extended": "",
+            "eventId": "SUMMER_2019"
+        },
+        {
+            "date": "2020",
+            "description": "Graduated with Bachelor in computer engineering, NTNU",
+            "extended": "",
+            "eventId": "GRADUATED_BACHELOR"
+        },
+        {
+            "date": "2020 Summer",
+            "description": "System developer internship at Epigram AI",
+            "extended": "",
+            "eventId": "SUMMER_2020"
+        },
+        {
+            "date": "2020",
+            "description": "Employed as full-stack developer at Favn Software",
+            "extended": "",
+            "eventId": "EMPLOYED_FAVN"
+        },
+        {
+            "date": "2022",
+            "description": "Completed master thesis in Informatics with specialization within interaction design, NTNU",
+            "extended": "",
+            "eventId": "COMPLETED_MASTER"
+        }
+    ]
+}
